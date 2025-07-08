@@ -29,4 +29,4 @@
 5. 增加社交互动与评论
 平台还应鼓励用户留下评论和分享，这不仅能增加用户互动，还能提高页面的活跃度和搜索引擎排名。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/zzy1238/85444 ）</span>
